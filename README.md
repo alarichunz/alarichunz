@@ -1,8 +1,13 @@
-## Welcome, I'm Alaric
+## Hey, I'm Alaric 👋
 
-Currently a Master's student in computer science at GA Tech.<br> 
-BS in computer science and BA in economics from UT Austin.<br>
+I'm a master's student in computer science at Georgia Tech,
+with a BS in computer science and a BA in economics from UT Austin.
+
+I'm interested in computer architecture, GPU programming, and machine learning.
+
+---
 
 > Learning never exhausts the mind.<br>
-> The noblest pleasure is the joy of understanding.<br>
+> The noblest pleasure is the joy of understanding.
+>
 > — Leonardo da Vinci
