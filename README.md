@@ -5,8 +5,6 @@
 
 I'm interested in computer architecture, computer graphics, and machine learning.</h3>
 
----
-
 <img align="right" src="assets/mona-lisa-pixel-wink.gif" alt="Pixel-art Mona Lisa winking" width="128" />
 
 > Learning never exhausts the mind. <br>
