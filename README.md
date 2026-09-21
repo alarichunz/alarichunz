@@ -3,7 +3,7 @@
 I'm a master's student in computer science at Georgia Tech,
 with a BS in computer science and a BA in economics from UT Austin.
 
-I'm interested in computer architecture, GPU programming, and machine learning.
+I'm interested in computer architecture, computer graphics, and machine learning.
 
 ---
 
